@@ -1,2 +1,6 @@
 # siroj__
-birinchi loyiham
+# mening lohiham birinchi loyiham
+##kichik loyiham
+**mening birirnchi loyiham**
+-Html
+-
